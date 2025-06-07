@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on test systems, detect attacks, analyze networks, crack passwords, scan for vulnerabilities, and protect websites and networks.(https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
+- 🔭 I’m currently working on **test systems, detect attacks, analyze networks, crack passwords, scan for vulnerabilities, and protect websites and networks.**(https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
 - 🌱 I’m currently learning **Cybersecurity Fundamentals – Basics of security principles
 Network Security – Protecting networks and data
@@ -20,7 +20,7 @@ Security Policies & Compliance – Rules and laws for security
 Cryptography – Protecting data with encryption
 Risk Management – Assessing and reducing risksy.**
 
-- 👯 I’m looking to collaborate on Develop a tool, write research papers, or create training modules. Invite others to collaborate via GitHub or other collaborative platforms. Partner with Educational or Industry Organizations](https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
+- 👯 I’m looking to collaborate on **Develop a tool, write research papers, or create training modules. Invite others to collaborate via GitHub or other collaborative platforms. Partner with Educational or Industry Organizations]**(https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
 - 🤝 I’m looking for help with Seeking help with threat analysis, vulnerability testing, incident response, tool development, research, training, policies, and community sharing.(https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
