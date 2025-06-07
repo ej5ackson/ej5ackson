@@ -22,7 +22,7 @@ Risk Management – Assessing and reducing risksy.**
 
 - 👯 I’m looking to collaborate on **Develop a tool, write research papers, or create training modules. Invite others to collaborate via GitHub or other collaborative platforms. Partner with Educational or Industry Organizations]**(https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
-- 🤝 I’m looking for help with Seeking help with threat analysis, vulnerability testing, incident response, tool development, research, training, policies, and community sharing.(https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
+- 🤝 I’m looking for help with Seeking help with **threat analysis, vulnerability testing, incident response, tool development, research, training, policies, and community sharing.**(https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ej5ackson/ej5ackson/edit/main/README.md](https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
