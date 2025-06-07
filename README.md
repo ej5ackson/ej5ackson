@@ -9,7 +9,16 @@
 
 - 🔭 I’m currently working on test systems, detect attacks, analyze networks, crack passwords, scan for vulnerabilities, and protect websites and networks.(https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
-- 🌱 I’m currently learning **NIST CSF, ISO/IEC 27001, COBIT, certifications like Security+, CISSP, CISA, and specialized courses on MITRE ATT&CK and cloud security.**
+- 🌱 I’m currently learning **Cybersecurity Fundamentals – Basics of security principles
+Network Security – Protecting networks and data
+Ethical Hacking & Penetration Testing – Finding and fixing security gaps
+Threat Detection & Response – Identifying and responding to attacks
+Vulnerability Management – Finding and fixing weaknesses
+Security Tools & Techniques – Using security software and methods
+Incident Handling – Managing security breaches
+Security Policies & Compliance – Rules and laws for security
+Cryptography – Protecting data with encryption
+Risk Management – Assessing and reducing risksy.**
 
 - 👯 I’m looking to collaborate on Develop a tool, write research papers, or create training modules. Invite others to collaborate via GitHub or other collaborative platforms. Partner with Educational or Industry Organizations](https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
