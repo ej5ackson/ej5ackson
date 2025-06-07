@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://github.com/ej5ackson/ej5ackson/edit/main/README.md](https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
-- ⚡ Fun fact **s a cybersecurity analyst, your future involves adapting to rapidly changing technology, leveraging automation, staying informed about new threats, and continuously developing your skills to protect organizations in an increasingly digital world.**
+- ⚡ Fun fact **s a cybersecurity analyst, my future involves adapting to rapidly changing technology, leveraging automation, staying informed about new threats, and continuously developing your skills to protect organizations in an increasingly digital world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
