@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [test systems, detect attacks, analyze networks, crack passwords, scan for vulnerabilities, and protect websites and networks.](https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
+- 🔭 I’m currently working on test systems, detect attacks, analyze networks, crack passwords, scan for vulnerabilities, and protect websites and networks.(https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
 - 🌱 I’m currently learning **NIST CSF, ISO/IEC 27001, COBIT, certifications like Security+, CISSP, CISA, and specialized courses on MITRE ATT&CK and cloud security.**
 
-- 👯 I’m looking to collaborate on [Develop a tool, write research papers, or create training modules. Invite others to collaborate via GitHub or other collaborative platforms. Partner with Educational or Industry Organizations](https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
+- 👯 I’m looking to collaborate on Develop a tool, write research papers, or create training modules. Invite others to collaborate via GitHub or other collaborative platforms. Partner with Educational or Industry Organizations](https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
-- 🤝 I’m looking for help with [Seeking help with threat analysis, vulnerability testing, incident response, tool development, research, training, policies, and community sharing.](https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
+- 🤝 I’m looking for help with Seeking help with threat analysis, vulnerability testing, incident response, tool development, research, training, policies, and community sharing.(https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ej5ackson/ej5ackson/edit/main/README.md](https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
 
 - 📝 I regularly write articles on [https://github.com/ej5ackson/ej5ackson/edit/main/README.md](https://github.com/ej5ackson/ej5ackson/edit/main/README.md)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **ej5ackson@gmail.com**
 
