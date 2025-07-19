@@ -67,7 +67,7 @@ Committed to **continuous learning** and **collaborative, security-first develop
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile) | [Email](mailto:youremail@example.com)
+[LinkedIn]https://github.com/ej5ackson) |  | [Email](ej5ackson@gmail.com)
 
 ---
 
