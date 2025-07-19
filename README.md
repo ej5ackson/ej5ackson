@@ -11,7 +11,7 @@ I'm a passionate **Frontend Cybersecurity Analyst** based in the UK, dedicated t
 
 Committed to **continuous learning** and **collaborative, security-first development**, I aim to build **resilient digital ecosystems** through **proactive security measures** and **stakeholder education**.
 
-✨ Welcome to my portfolio—where **finance meets tech**, and **curiosity fuels growth**! 🚀
+✨ Welcome to my portfolio—where **Structural Building Engineering**, and **curiosity fuels growth**! 🚀
 
 ---
 
